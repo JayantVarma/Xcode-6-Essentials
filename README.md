@@ -27,11 +27,11 @@ This book is aimed at developers who want to make applications for Apple devices
 ## Table of Contents
 1. Introduction to Xcode
 2. Tour of Xcode
-3. [Playgrounds](https://github.com/JayantVarma/Xcode-6-Essentials/Chapter3)
-4. [Interface Builder](https://github.com/JayantVarma/Xcode-6-Essentials/Chapter4)
-5. [Custom Controls](https://github.com/JayantVarma/Xcode-6-Essentials/Chapter5)
-6. [Debugging](https://github.com/JayantVarma/Xcode-6-Essentials/Chapter6)
-7. [Building and Running](https://github.com/JayantVarma/Xcode-6-Essentials/Chapter7)
+3. [Playgrounds](https://github.com/JayantVarma/Xcode-6-Essentials/tree/master/Chapter3)
+4. [Interface Builder](https://github.com/JayantVarma/Xcode-6-Essentials/tree/master/Chapter4/Stooges)
+5. [Custom Controls](https://github.com/JayantVarma/Xcode-6-Essentials/tree/master/Chapter5/Chapter_5)
+6. [Debugging](https://github.com/JayantVarma/Xcode-6-Essentials/tree/master/Chapter6/Chapter_6)
+7. [Building and Running](https://github.com/JayantVarma/Xcode-6-Essentials/tree/master/Chapter7/Chapter_7)
 
 ## What You Will Learn
 
